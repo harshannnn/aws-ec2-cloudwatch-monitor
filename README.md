@@ -34,7 +34,8 @@ Email Notification
 
 5. Confirmed the alarm crossed the 70% threshold and briefly entered "In alarm" state
 6. Confirmed receipt of the SNS email notification
-<img width="1885" height="871" alt="image" src="https://github.com/user-attachments/assets/a30c9920-047a-4197-b8ab-6db1e4e5adda" />
+<img width="1906" height="815" alt="image" src="https://github.com/user-attachments/assets/bdcde108-a8a3-4902-b6f5-9bdf080bfe69" />
+
 
 ## What I learned
 
